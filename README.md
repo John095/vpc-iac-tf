@@ -44,8 +44,3 @@ You can customize the VPC settings such as CIDR blocks, subnet ranges, etc. by m
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-You can copy the above Markdown content and directly paste it into your `README.md` file for a clean and formatted look on GitHub.
-```
